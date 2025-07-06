@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my skills in Python and web development.
+- Contribute to at least two open-source projects.
+- Complete an online certification in cloud computing.
+- Build a personal portfolio website.
+- Read three books on software engineering practices.
